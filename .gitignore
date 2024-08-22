@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Build
+build/
+
+# Qt
+CMakeLists.txt.user
+
+# jetbrains
+.idea/
+
+# vcpkg
+vcpkg_installed/
